@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CommonLib</string>
+    <string name="selection_title">图片</string>
+    <string name="photo_complete">完成(%1$d/%2$d)</string>
+    <string name="photo_browse">预览(%1$d)</string>
+    <string name="album_all">所有图片</string>
+    <string name="choose_max_photo">最多选取%1$d张照片</string>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.RecyclerView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/rv_photo_buckets"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginBottom="@dimen/photo_selected_buttom_layout_height"
+    android:background="@android:color/white"
+    android:focusable="false"
+    >
+
+</android.support.v7.widget.RecyclerView>
