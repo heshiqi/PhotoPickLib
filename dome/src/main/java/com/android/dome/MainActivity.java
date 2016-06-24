@@ -16,6 +16,7 @@ import com.android.common.adapter.BBaseAdapter;
 import com.android.common.core.data.Photo;
 import com.android.common.utils.ScreenUtil;
 import com.android.common.widget.CustomImageView;
+import com.android.common.widget.DividerItemDecoration;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -34,6 +35,7 @@ public class MainActivity extends AppCompatActivity implements BBaseAdapter.OnIt
         adapter = new MyAdapter(this, null);
         adapter.setOnItemClickListener(this);
         recyclerView.setLayoutManager(new LinearLayoutManager(this,RecyclerView.VERTICAL,false));
+        recyclerView.addItemDecoration(new DividerItemDecoration(this,R.drawable.divider,DividerItemDecoration.VERTICAL_LIST));
         recyclerView.setAdapter(adapter);
         button.setOnClickListener(new View.OnClickListener() {
             @Override

@@ -19,153 +19,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6961cb14-5e1f-4e74-a95d-9c4a866e68fd" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/src/main/res/mipmap-hdpi/ic_launcher.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/src/main/res/mipmap-mdpi/ic_launcher.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/src/main/res/mipmap-xhdpi/ic_launcher.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/src/main/res/mipmap-xxhdpi/ic_launcher.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/src/main/res/mipmap-xxxhdpi/ic_launcher.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dome/build.gradle" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dome/dome.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dome/proguard-rules.pro" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dome/src/androidTest/java/com/android/dome/ApplicationTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dome/src/main/AndroidManifest.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dome/src/main/java/com/android/dome/MainActivity.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dome/src/main/java/com/android/dome/MyApplication.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dome/src/main/res/layout/activity_main.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dome/src/main/res/layout/item_photo.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dome/src/main/res/values/colors.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dome/src/main/res/values/dimens.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dome/src/main/res/values/strings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dome/src/main/res/values/styles.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dome/src/test/java/com/android/dome/ExampleUnitTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/src/main/res/values-w820dp/dimens.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.10/taskArtifacts/cache.properties.lock" afterPath="$PROJECT_DIR$/.gradle/2.10/taskArtifacts/cache.properties.lock" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.10/taskArtifacts/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/2.10/taskArtifacts/fileHashes.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.10/taskArtifacts/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/2.10/taskArtifacts/fileSnapshots.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.10/taskArtifacts/outputFileStates.bin" afterPath="$PROJECT_DIR$/.gradle/2.10/taskArtifacts/outputFileStates.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.10/taskArtifacts/taskArtifacts.bin" afterPath="$PROJECT_DIR$/.gradle/2.10/taskArtifacts/taskArtifacts.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.10/tasks/_app_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.bin" afterPath="$PROJECT_DIR$/.gradle/2.10/tasks/_app_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.10/tasks/_app_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock" afterPath="$PROJECT_DIR$/.gradle/2.10/tasks/_app_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.10/tasks/_app_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.bin" afterPath="$PROJECT_DIR$/.gradle/2.10/tasks/_app_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.10/tasks/_app_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock" afterPath="$PROJECT_DIR$/.gradle/2.10/tasks/_app_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/generated/mockable-android-23.jar" afterPath="$PROJECT_DIR$/build/generated/mockable-android-23.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/gradle.xml" afterPath="$PROJECT_DIR$/.idea/gradle.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/animated_vector_drawable_23_3_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/animated_vector_drawable_23_3_0.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/appcompat_v7_23_3_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/appcompat_v7_23_3_0.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/drawee_0_9_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/drawee_0_9_0.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/fbcore_0_9_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/fbcore_0_9_0.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/fresco_0_9_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/fresco_0_9_0.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/imagepipeline_0_9_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/imagepipeline_0_9_0.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/imagepipeline_base_0_9_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/imagepipeline_base_0_9_0.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/recyclerview_v7_24_0_0_beta1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/recyclerview_v7_24_0_0_beta1.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/support_v4_24_0_0_beta1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/support_v4_24_0_0_beta1.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/support_vector_drawable_23_3_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/support_vector_drawable_23_3_0.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.10/tasks/_dome_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.bin" afterPath="$PROJECT_DIR$/.gradle/2.10/tasks/_dome_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.10/tasks/_dome_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock" afterPath="$PROJECT_DIR$/.gradle/2.10/tasks/_dome_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.10/tasks/_dome_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock" afterPath="$PROJECT_DIR$/.gradle/2.10/tasks/_dome_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/settings.gradle" afterPath="$PROJECT_DIR$/settings.gradle" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/.gitignore" afterPath="$PROJECT_DIR$/dome/.gitignore" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/app.iml" afterPath="$PROJECT_DIR$/library/library.iml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/build.gradle" afterPath="$PROJECT_DIR$/library/build.gradle" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/proguard-rules.pro" afterPath="$PROJECT_DIR$/library/proguard-rules.pro" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/androidTest/java/com/android/commonlib/ApplicationTest.java" afterPath="$PROJECT_DIR$/library/src/androidTest/java/com/android/commonlib/ApplicationTest.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterPath="$PROJECT_DIR$/library/src/main/AndroidManifest.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/android/common/BaseApplication.java" afterPath="$PROJECT_DIR$/library/src/main/java/com/android/common/BaseApplication.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/android/common/activity/BaseActivity.java" afterPath="$PROJECT_DIR$/library/src/main/java/com/android/common/activity/BaseActivity.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/android/common/activity/PhotoBrowseActivity.java" afterPath="$PROJECT_DIR$/library/src/main/java/com/android/common/activity/PhotoBrowseActivity.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/android/common/activity/PhotoSelectionActivity.java" afterPath="$PROJECT_DIR$/library/src/main/java/com/android/common/activity/PhotoSelectionActivity.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/android/common/adapter/BBaseAdapter.java" afterPath="$PROJECT_DIR$/library/src/main/java/com/android/common/adapter/BBaseAdapter.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/android/common/adapter/PhotoBrowseAdapter.java" afterPath="$PROJECT_DIR$/library/src/main/java/com/android/common/adapter/PhotoBrowseAdapter.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/android/common/adapter/PhotoBucketAdapter.java" afterPath="$PROJECT_DIR$/library/src/main/java/com/android/common/adapter/PhotoBucketAdapter.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/android/common/adapter/PhotoSelectionAdapter.java" afterPath="$PROJECT_DIR$/library/src/main/java/com/android/common/adapter/PhotoSelectionAdapter.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/android/common/core/data/Photo.java" afterPath="$PROJECT_DIR$/library/src/main/java/com/android/common/core/data/Photo.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/android/common/core/data/PhotoBucket.java" afterPath="$PROJECT_DIR$/library/src/main/java/com/android/common/core/data/PhotoBucket.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/android/common/core/data/datasource/PhotoDataSouce.java" afterPath="$PROJECT_DIR$/library/src/main/java/com/android/common/core/data/datasource/PhotoDataSouce.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/android/common/core/interactor/PhotoDataInteractor.java" afterPath="$PROJECT_DIR$/library/src/main/java/com/android/common/core/interactor/PhotoDataInteractor.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/android/common/core/presenter/IPresenter.java" afterPath="$PROJECT_DIR$/library/src/main/java/com/android/common/core/presenter/IPresenter.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/android/common/core/presenter/PhotoBrowsePresenter.java" afterPath="$PROJECT_DIR$/library/src/main/java/com/android/common/core/presenter/PhotoBrowsePresenter.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/android/common/core/presenter/PhotoSelectionPresenter.java" afterPath="$PROJECT_DIR$/library/src/main/java/com/android/common/core/presenter/PhotoSelectionPresenter.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/android/common/core/view/IView.java" afterPath="$PROJECT_DIR$/library/src/main/java/com/android/common/core/view/IView.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/android/common/core/view/PhotoSelectionView.java" afterPath="$PROJECT_DIR$/library/src/main/java/com/android/common/core/view/PhotoSelectionView.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/android/common/fragment/BaseFragment.java" afterPath="$PROJECT_DIR$/library/src/main/java/com/android/common/fragment/BaseFragment.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/android/common/helper/MediaPhotoCursorHelper.java" afterPath="$PROJECT_DIR$/library/src/main/java/com/android/common/helper/MediaPhotoCursorHelper.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/android/common/helper/PhotoSelectionHelper.java" afterPath="$PROJECT_DIR$/library/src/main/java/com/android/common/helper/PhotoSelectionHelper.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/android/common/utils/FileUtils.java" afterPath="$PROJECT_DIR$/library/src/main/java/com/android/common/utils/FileUtils.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/android/common/utils/ImageUtils.java" afterPath="$PROJECT_DIR$/library/src/main/java/com/android/common/utils/ImageUtils.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/android/common/utils/LogUtil.java" afterPath="$PROJECT_DIR$/library/src/main/java/com/android/common/utils/LogUtil.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/android/common/utils/PremissionManager.java" afterPath="$PROJECT_DIR$/library/src/main/java/com/android/common/utils/PremissionManager.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/android/common/utils/ScreenUtil.java" afterPath="$PROJECT_DIR$/library/src/main/java/com/android/common/utils/ScreenUtil.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/android/common/utils/StringUtil.java" afterPath="$PROJECT_DIR$/library/src/main/java/com/android/common/utils/StringUtil.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/android/common/utils/ToastUtil.java" afterPath="$PROJECT_DIR$/library/src/main/java/com/android/common/utils/ToastUtil.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/android/common/utils/Utils.java" afterPath="$PROJECT_DIR$/library/src/main/java/com/android/common/utils/Utils.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/android/common/widget/CheckableFrameLayout.java" afterPath="$PROJECT_DIR$/library/src/main/java/com/android/common/widget/CheckableFrameLayout.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/android/common/widget/CheckableImageView.java" afterPath="$PROJECT_DIR$/library/src/main/java/com/android/common/widget/CheckableImageView.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/android/common/widget/CustomImageView.java" afterPath="$PROJECT_DIR$/library/src/main/java/com/android/common/widget/CustomImageView.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/android/common/widget/CustomProgressbarDrawable.java" afterPath="$PROJECT_DIR$/library/src/main/java/com/android/common/widget/CustomProgressbarDrawable.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/android/common/widget/DividerItemDecoration.java" afterPath="$PROJECT_DIR$/library/src/main/java/com/android/common/widget/DividerItemDecoration.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/android/common/widget/GridInsetDecoration.java" afterPath="$PROJECT_DIR$/library/src/main/java/com/android/common/widget/GridInsetDecoration.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/android/common/widget/HackyViewPager.java" afterPath="$PROJECT_DIR$/library/src/main/java/com/android/common/widget/HackyViewPager.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/android/common/widget/ImageDownloadListener.java" afterPath="$PROJECT_DIR$/library/src/main/java/com/android/common/widget/ImageDownloadListener.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/android/common/widget/PhotoBrowseItemLayout.java" afterPath="$PROJECT_DIR$/library/src/main/java/com/android/common/widget/PhotoBrowseItemLayout.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/android/common/widget/PhotoBucketsDialog.java" afterPath="$PROJECT_DIR$/library/src/main/java/com/android/common/widget/PhotoBucketsDialog.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/android/common/widget/PhotoItemLayout.java" afterPath="$PROJECT_DIR$/library/src/main/java/com/android/common/widget/PhotoItemLayout.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/uk/co/senab/photoview/Compat.java" afterPath="$PROJECT_DIR$/library/src/main/java/uk/co/senab/photoview/Compat.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/uk/co/senab/photoview/DefaultOnDoubleTapListener.java" afterPath="$PROJECT_DIR$/library/src/main/java/uk/co/senab/photoview/DefaultOnDoubleTapListener.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/uk/co/senab/photoview/IPhotoView.java" afterPath="$PROJECT_DIR$/library/src/main/java/uk/co/senab/photoview/IPhotoView.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/uk/co/senab/photoview/PhotoView.java" afterPath="$PROJECT_DIR$/library/src/main/java/uk/co/senab/photoview/PhotoView.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/uk/co/senab/photoview/PhotoViewAttacher.java" afterPath="$PROJECT_DIR$/library/src/main/java/uk/co/senab/photoview/PhotoViewAttacher.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/uk/co/senab/photoview/gestures/CupcakeGestureDetector.java" afterPath="$PROJECT_DIR$/library/src/main/java/uk/co/senab/photoview/gestures/CupcakeGestureDetector.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/uk/co/senab/photoview/gestures/EclairGestureDetector.java" afterPath="$PROJECT_DIR$/library/src/main/java/uk/co/senab/photoview/gestures/EclairGestureDetector.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/uk/co/senab/photoview/gestures/FroyoGestureDetector.java" afterPath="$PROJECT_DIR$/library/src/main/java/uk/co/senab/photoview/gestures/FroyoGestureDetector.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/uk/co/senab/photoview/gestures/GestureDetector.java" afterPath="$PROJECT_DIR$/library/src/main/java/uk/co/senab/photoview/gestures/GestureDetector.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/uk/co/senab/photoview/gestures/OnGestureListener.java" afterPath="$PROJECT_DIR$/library/src/main/java/uk/co/senab/photoview/gestures/OnGestureListener.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/uk/co/senab/photoview/gestures/VersionedGestureDetector.java" afterPath="$PROJECT_DIR$/library/src/main/java/uk/co/senab/photoview/gestures/VersionedGestureDetector.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/uk/co/senab/photoview/log/LogManager.java" afterPath="$PROJECT_DIR$/library/src/main/java/uk/co/senab/photoview/log/LogManager.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/uk/co/senab/photoview/log/Logger.java" afterPath="$PROJECT_DIR$/library/src/main/java/uk/co/senab/photoview/log/Logger.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/uk/co/senab/photoview/log/LoggerDefault.java" afterPath="$PROJECT_DIR$/library/src/main/java/uk/co/senab/photoview/log/LoggerDefault.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/uk/co/senab/photoview/scrollerproxy/GingerScroller.java" afterPath="$PROJECT_DIR$/library/src/main/java/uk/co/senab/photoview/scrollerproxy/GingerScroller.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/uk/co/senab/photoview/scrollerproxy/IcsScroller.java" afterPath="$PROJECT_DIR$/library/src/main/java/uk/co/senab/photoview/scrollerproxy/IcsScroller.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/uk/co/senab/photoview/scrollerproxy/PreGingerScroller.java" afterPath="$PROJECT_DIR$/library/src/main/java/uk/co/senab/photoview/scrollerproxy/PreGingerScroller.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/uk/co/senab/photoview/scrollerproxy/ScrollerProxy.java" afterPath="$PROJECT_DIR$/library/src/main/java/uk/co/senab/photoview/scrollerproxy/ScrollerProxy.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/res/anim/dialog_slid_bottom_in.xml" afterPath="$PROJECT_DIR$/library/src/main/res/anim/dialog_slid_bottom_in.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/res/anim/dialog_slid_bottom_out.xml" afterPath="$PROJECT_DIR$/library/src/main/res/anim/dialog_slid_bottom_out.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/res/drawable/btn_selection.xml" afterPath="$PROJECT_DIR$/library/src/main/res/drawable/btn_selection.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/res/drawable/btn_selection_lrg.xml" afterPath="$PROJECT_DIR$/library/src/main/res/drawable/btn_selection_lrg.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/res/drawable/line_divider.xml" afterPath="$PROJECT_DIR$/library/src/main/res/drawable/line_divider.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/res/drawable/select_photo_complete.xml" afterPath="$PROJECT_DIR$/library/src/main/res/drawable/select_photo_complete.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/res/drawable/select_photo_complete_disable.xml" afterPath="$PROJECT_DIR$/library/src/main/res/drawable/select_photo_complete_disable.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/res/drawable/select_photo_complete_press.xml" afterPath="$PROJECT_DIR$/library/src/main/res/drawable/select_photo_complete_press.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/res/drawable/select_photo_complete_selector.xml" afterPath="$PROJECT_DIR$/library/src/main/res/drawable/select_photo_complete_selector.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/res/drawable/selector_btn_title.xml" afterPath="$PROJECT_DIR$/library/src/main/res/drawable/selector_btn_title.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_photo_selection.xml" afterPath="$PROJECT_DIR$/library/src/main/res/layout/activity_photo_selection.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_view_pager.xml" afterPath="$PROJECT_DIR$/library/src/main/res/layout/activity_view_pager.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/res/layout/item_grid_camera.xml" afterPath="$PROJECT_DIR$/library/src/main/res/layout/item_grid_camera.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/res/layout/item_grid_photo.xml" afterPath="$PROJECT_DIR$/library/src/main/res/layout/item_grid_photo.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/res/layout/item_grid_photo_internal.xml" afterPath="$PROJECT_DIR$/library/src/main/res/layout/item_grid_photo_internal.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/res/layout/item_photo_bucket.xml" afterPath="$PROJECT_DIR$/library/src/main/res/layout/item_photo_bucket.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/res/layout/item_viewpager_photo_internal.xml" afterPath="$PROJECT_DIR$/library/src/main/res/layout/item_viewpager_photo_internal.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/res/layout/layout_photo_buckets.xml" afterPath="$PROJECT_DIR$/library/src/main/res/layout/layout_photo_buckets.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/res/layout/layout_photos_operate.xml" afterPath="$PROJECT_DIR$/library/src/main/res/layout/layout_photos_operate.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterPath="$PROJECT_DIR$/dome/src/main/res/mipmap-hdpi/ic_launcher.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterPath="$PROJECT_DIR$/dome/src/main/res/mipmap-mdpi/ic_launcher.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/back.png" afterPath="$PROJECT_DIR$/library/src/main/res/mipmap-xhdpi/back.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_btn_selection_checked.png" afterPath="$PROJECT_DIR$/library/src/main/res/mipmap-xhdpi/ic_btn_selection_checked.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_btn_selection_checked_lrg.png" afterPath="$PROJECT_DIR$/library/src/main/res/mipmap-xhdpi/ic_btn_selection_checked_lrg.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_btn_selection_normal.png" afterPath="$PROJECT_DIR$/library/src/main/res/mipmap-xhdpi/ic_btn_selection_normal.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_btn_selection_normal_lrg.png" afterPath="$PROJECT_DIR$/library/src/main/res/mipmap-xhdpi/ic_btn_selection_normal_lrg.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterPath="$PROJECT_DIR$/dome/src/main/res/mipmap-xhdpi/ic_launcher.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_menu_camera.png" afterPath="$PROJECT_DIR$/library/src/main/res/mipmap-xhdpi/ic_menu_camera.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_photo_bg.jpg" afterPath="$PROJECT_DIR$/library/src/main/res/mipmap-xhdpi/ic_photo_bg.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterPath="$PROJECT_DIR$/dome/src/main/res/mipmap-xxhdpi/ic_launcher.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterPath="$PROJECT_DIR$/dome/src/main/res/mipmap-xxxhdpi/ic_launcher.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/res/values-w820dp/dimens.xml" afterPath="$PROJECT_DIR$/dome/src/main/res/values-w820dp/dimens.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/res/values/colors.xml" afterPath="$PROJECT_DIR$/library/src/main/res/values/colors.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/res/values/dimens.xml" afterPath="$PROJECT_DIR$/library/src/main/res/values/dimens.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterPath="$PROJECT_DIR$/library/src/main/res/values/strings.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/res/values/styles.xml" afterPath="$PROJECT_DIR$/library/src/main/res/values/styles.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/test/java/com/android/commonlib/ExampleUnitTest.java" afterPath="$PROJECT_DIR$/library/src/test/java/com/android/commonlib/ExampleUnitTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dome/src/main/java/com/android/dome/MainActivity.java" afterPath="$PROJECT_DIR$/dome/src/main/java/com/android/dome/MainActivity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dome/src/main/res/layout/activity_main.xml" afterPath="$PROJECT_DIR$/dome/src/main/res/layout/activity_main.xml" />
     </list>
     <ignored path="CommonLib.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -197,13 +61,33 @@
         <entry file="file://$PROJECT_DIR$/dome/src/main/java/com/android/dome/MainActivity.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="100" column="55" selection-start-line="100" selection-start-column="55" selection-end-line="100" selection-end-column="55" />
+              <caret line="37" column="85" selection-start-line="37" selection-start-column="85" selection-end-line="37" selection-end-column="85" />
               <folding>
-                <element signature="e#1440#1826#0" expanded="true" />
-                <element signature="e#1825#1826#0" expanded="true" />
-                <element signature="e#2690#2691#0" expanded="true" />
-                <element signature="e#2735#2736#0" expanded="true" />
+                <element signature="e#1624#2010#0" expanded="true" />
+                <element signature="e#2009#2010#0" expanded="true" />
+                <element signature="e#2874#2875#0" expanded="true" />
+                <element signature="e#2919#2920#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="divider.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/dome/src/main/res/drawable/divider.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.24429968">
+              <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MyApplication.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dome/src/main/java/com/android/dome/MyApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="7" column="40" selection-start-line="7" selection-start-column="40" selection-end-line="7" selection-end-column="40" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -228,21 +112,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="styles.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/library/src/main/res/values/styles.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="1.6129032">
-              <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="9" selection-end-column="62" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="PhotoSelectionActivity.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/library/src/main/java/com/android/common/activity/PhotoSelectionActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-67.26667">
-              <caret line="183" column="0" selection-start-line="183" selection-start-column="0" selection-end-line="183" selection-end-column="0" />
+            <state vertical-scroll-proportion="-11.433333">
+              <caret line="86" column="43" selection-start-line="85" selection-start-column="4" selection-end-line="86" selection-end-column="43" />
               <folding>
                 <element signature="e#7122#7129#0" expanded="true" />
               </folding>
@@ -250,11 +124,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PhotoSelectionPresenter.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="PhotoSelectionPresenter.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/library/src/main/java/com/android/common/core/presenter/PhotoSelectionPresenter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5355987">
-              <caret line="127" column="5" selection-start-line="127" selection-start-column="5" selection-end-line="127" selection-end-column="5" />
+            <state vertical-scroll-proportion="-14.366667">
+              <caret line="116" column="9" selection-start-line="116" selection-start-column="9" selection-end-line="116" selection-end-column="9" />
               <folding />
             </state>
           </provider>
@@ -270,31 +144,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AndroidManifest.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/dome/src/main/AndroidManifest.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-8.088235">
-              <caret line="11" column="32" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="32" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="styles.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/dome/src/main/res/values/styles.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="-4.83871">
               <caret line="12" column="12" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PhotoSelectionAdapter.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/library/src/main/java/com/android/common/adapter/PhotoSelectionAdapter.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -307,6 +161,7 @@
       <list>
         <option value="layoutResourceFile_vertical" />
         <option value="Class" />
+        <option value="resourceFile" />
       </list>
     </option>
   </component>
@@ -3666,7 +3521,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/dome/src/main/res/layout/activity_main.xml" />
         <option value="$PROJECT_DIR$/library/build.gradle" />
         <option value="$PROJECT_DIR$/library/src/main/java/com/android/common/activity/PhotoBrowseActivity.java" />
         <option value="$PROJECT_DIR$/library/src/main/java/com/android/common/widget/PhotoBrowseItemLayout.java" />
@@ -3679,6 +3533,8 @@
         <option value="$PROJECT_DIR$/library/src/main/AndroidManifest.xml" />
         <option value="$PROJECT_DIR$/dome/src/main/res/values/styles.xml" />
         <option value="$PROJECT_DIR$/dome/src/main/java/com/android/dome/MainActivity.java" />
+        <option value="$PROJECT_DIR$/dome/src/main/res/layout/activity_main.xml" />
+        <option value="$PROJECT_DIR$/dome/src/main/res/drawable/divider.xml" />
       </list>
     </option>
   </component>
@@ -3730,6 +3586,132 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="CommonLib" />
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="library" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CommonLib" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="library" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CommonLib" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="library" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="common" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CommonLib" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="library" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="common" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="widget" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CommonLib" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="library" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="common" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="activity" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CommonLib" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dome" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CommonLib" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dome" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CommonLib" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dome" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dome" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidPsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
@@ -4102,7 +4084,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-10" y="2" width="1604" height="876" extended-state="1" />
+    <frame x="-10" y="2" width="1604" height="876" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="PlantUML" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -4113,7 +4095,7 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.055788007" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.17551814" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17551814" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -4121,7 +4103,7 @@
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25518134" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25518134" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Android Model" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
@@ -4143,7 +4125,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="3" />
+      <option name="time" value="4" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -4251,17 +4233,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dome/src/main/java/com/android/dome/MyApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="7" column="40" selection-start-line="7" selection-start-column="40" selection-end-line="7" selection-end-column="40" />
-          <folding>
-            <element signature="e#216#217#0" expanded="true" />
-            <element signature="e#248#249#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/library/src/main/java/com/android/common/BaseApplication.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -4285,17 +4256,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dome/src/main/res/layout/activity_main.xml">
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-4.296875">
-          <caret line="11" column="37" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="37" />
           <folding />
         </state>
       </provider>
@@ -4375,29 +4335,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dome/src/main/java/com/android/dome/MainActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="100" column="55" selection-start-line="100" selection-start-column="55" selection-end-line="100" selection-end-column="55" />
-          <folding>
-            <element signature="e#1440#1826#0" expanded="true" />
-            <element signature="e#1825#1826#0" expanded="true" />
-            <element signature="e#2690#2691#0" expanded="true" />
-            <element signature="e#2735#2736#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/library/src/main/java/com/android/common/activity/PhotoSelectionActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-67.26667">
-          <caret line="183" column="0" selection-start-line="183" selection-start-column="0" selection-end-line="183" selection-end-column="0" />
-          <folding>
-            <element signature="e#7122#7129#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/library/src/main/java/com/android/common/utils/FileUtils.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -4406,10 +4343,76 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/library/src/main/java/com/android/common/widget/GridInsetDecoration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5787037">
+          <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/library/src/main/java/com/android/common/activity/PhotoSelectionActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-11.433333">
+          <caret line="86" column="43" selection-start-line="85" selection-start-column="4" selection-end-line="86" selection-end-column="43" />
+          <folding>
+            <element signature="e#7122#7129#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dome/src/main/java/com/android/dome/MyApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="7" column="40" selection-start-line="7" selection-start-column="40" selection-end-line="7" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/library/src/main/java/com/android/common/core/presenter/PhotoSelectionPresenter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5355987">
-          <caret line="127" column="5" selection-start-line="127" selection-start-column="5" selection-end-line="127" selection-end-column="5" />
+        <state vertical-scroll-proportion="-14.366667">
+          <caret line="116" column="9" selection-start-line="116" selection-start-column="9" selection-end-line="116" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dome/src/main/res/layout/activity_main.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4708904">
+          <caret line="11" column="38" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/library/src/main/java/com/android/common/widget/DividerItemDecoration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.37191358">
+          <caret line="66" column="43" selection-start-line="66" selection-start-column="43" selection-end-line="66" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dome/src/main/java/com/android/dome/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="37" column="85" selection-start-line="37" selection-start-column="85" selection-end-line="37" selection-end-column="85" />
+          <folding>
+            <element signature="e#1624#2010#0" expanded="true" />
+            <element signature="e#2009#2010#0" expanded="true" />
+            <element signature="e#2874#2875#0" expanded="true" />
+            <element signature="e#2919#2920#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dome/src/main/res/drawable/divider.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.24429968">
+          <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
           <folding />
         </state>
       </provider>
