@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:gravity="center_vertical"
+    android:orientation="horizontal"
+    android:padding="10dp"
+    android:focusable="false"
+    >
+    <com.hsq.common.photopick.widget.CustomImageView
+        android:id="@+id/iv_bucket_thumbnail"
+        android:layout_width="80dp"
+        android:layout_height="80dp" />
+      <TextView
+          android:id="@+id/tv_bucket_name"
+          android:layout_width="0dp"
+          android:layout_weight="1"
+          android:layout_height="wrap_content"
+          android:layout_centerVertical="true"
+          android:layout_marginLeft="10dp"
+          android:layout_marginRight="10dp"
+          android:text="dd"
+        />
+    <View
+        android:id="@+id/checked_view"
+        android:layout_width="20dp"
+        android:layout_height="20dp"
+        android:background="@mipmap/ic_btn_selection_checked"/>
+
+</LinearLayout>

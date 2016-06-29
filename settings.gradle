@@ -1,1 +1,1 @@
-include ':library', ':dome'
+include ':dome', ':photopick'
