@@ -34,6 +34,9 @@ public class FileUtils {
     public static File getCameraPhotoFile() {
         File dir = Environment
                 .getExternalStoragePublicDirectory(Environment.DIRECTORY_PICTURES);
+        if(!dir.exists()){
+            dir.mkdirs();
+        }
         return new File(dir, "photopick_" + System.currentTimeMillis() + ".jpg");
     }
 }

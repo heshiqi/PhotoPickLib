@@ -1,6 +1,7 @@
 package com.hsq.common.photopick.activity;
 
 import android.Manifest;
+import android.annotation.TargetApi;
 import android.content.Intent;
 import android.content.pm.PackageManager;
 import android.os.Build;
@@ -93,6 +94,7 @@ public class PhotoSelectionActivity extends BaseActivity<PhotoSelectionPresenter
 
     }
 
+    @TargetApi(Build.VERSION_CODES.M)
     @Override
     protected void initData() {
         List<String> premissions = new ArrayList<>(2);
